@@ -1,6 +1,6 @@
 # 💰 Expense Tracker
 
-A minimal and functional web application to track your expenses. Built with React (frontend) and Supabase (backend). Deployed using Supabase or similar platforms.
+A fully functional expense-tracking web application built with React for the frontend and Supabase for the backend. The backend is deployed on Supabase, while the frontend is hosted on Netlify
 
 ## 🚀 Features
 
